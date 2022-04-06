@@ -1,1 +1,1 @@
-# C-122-Alphabet-Recognition-1
+# Pro-C122-Alphabet_Detection-Project
